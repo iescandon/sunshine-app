@@ -1,0 +1,12 @@
+{
+  "name": "sunshine-app",
+  "displayName": "sunshine-app",
+  "expo": {
+    "name": "sunshine-app",
+    "slug": "sunshine-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
